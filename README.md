@@ -1,44 +1,44 @@
-<!文档类型HTML>
-<html 朗=恩>
-<头>
-    <元字符集=“UT F8战斗机”的缩写>
-    <元姓名=视口 内容=“宽度=设备宽度，初始尺度=1.0”>
-    <标题>邱玄伟—个人介绍</标题>
-    <风格>
-主体{
-字体家族："塞戈界面"，塔霍马，日内瓦，韦尔达纳，无衬线；字体家族："塞戈界面"，塔霍马，日内瓦，韦尔达纳，无衬线；
-线高：1.6line-height: 1.6;
-产品颜色：#333颜色：#333
-最大宽度：800像素最大宽度：800像素；
-保证金：0自动；保证金：0自动；
-填充：20像素填充：20像素；
-背景颜色：#f0f0f0；背景色：#f0f0f0；
-        }}
-标题{
-背景颜色：#1 e88e5；背景颜色：#1e88e5；
-颜色：白色；颜色：白色
-: 
-填充物：1份；
-边界半径：8像素
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qiu Xuanwei - Personal Introduction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
         }
-H1
-保证金：0；
+        header {
+            background-color: #1e88e5;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            border-radius: 8px;
         }
-        .第{节
-背景色：白色；
-边缘底部：20像素；
-填充：20像素
-边界半径：8像素
-框影：0 2像素4像素的格巴（0，0，0，0.1）；
+        h1 {
+            margin: 0;
         }
-        .第h2节
-颜色：#1e88e5
-边框底部：2像素固体#1e88e5；
-垫底：10像素
+        .section {
+            背景色: 白色;
+            边缘底部: 20px;
+            填料: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-@介质（最大宽度：600像素）
-主体
-填充：10像素
+        .section h2 {
+            color: #1e88e5;
+            border-bottom: 2px solid #1e88e5;
+            padding-bottom: 10px;
+        }
+        @媒体 (最大宽度: 600px) {
+身体{
+                填料: 10px;
             }
         }
     </风格>
@@ -63,7 +63,7 @@ H1
             <p>当我不在球场上的时候，你经常会发现我沉浸在电子游戏的世界里。我喜欢各种类型的游戏，从动作第一人称射击游戏到战略角色扮演游戏。游戏让我探索新世界，在精神上挑战自我，并与朋友在线联系。
     </div>
         
-    <第类="节">
+    <di类="节">
     <h2>与我联系
     <p>如果你对篮球或游戏有共同的爱好，或者你有兴趣聊聊这两者，请随时联系我们！我总是很高兴认识有相似兴趣的新朋友，并交流想法或策略。
     </div>
